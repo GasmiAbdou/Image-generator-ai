@@ -1,6 +1,4 @@
-#####################PROJECT MADE BY RAZEX PLEASE DONT FORGET TO LIKE THE VIDEO YOU WATCHED JUST TO SUPPORT ME AND READ "readme.md" FILE #####################
 
-#############ALSO IF YOU WANT ME TO BLOW YOUR MIND WITH AI TOOLS AND BOTS PLEASE SUBSCRIBE AND LIKE MY VIDEOS THAT S ALL WHAT I WANT NOTHING ELSE ################################""
 
 import aiohttp
 import discord
